@@ -2,6 +2,9 @@
 
 Homebrew formulas for [Kun Chen's](https://github.com/kunchenguid) CLI tools, until they ship in
 [kunchenguid/homebrew-tap](https://github.com/kunchenguid/homebrew-tap).
+Upstream proposals: [treehouse#211](https://github.com/kunchenguid/treehouse/pull/211),
+[lavish-axi#482](https://github.com/kunchenguid/lavish-axi/pull/482),
+[no-mistakes#1744](https://github.com/kunchenguid/no-mistakes/issues/1744).
 
 | Formula       | Upstream                                                            |
 | ------------- | ------------------------------------------------------------------- |
