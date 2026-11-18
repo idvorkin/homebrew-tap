@@ -1,8 +1,8 @@
 class LavishAxi < Formula
   desc "Editor for HTML artifacts"
   homepage "https://github.com/kunchenguid/lavish-axi"
-  url "https://registry.npmjs.org/lavish-axi/-/lavish-axi-0.1.97.tgz"
-  sha256 "84e4d91c173e91b966c506da770a649d533766d93985739d26b8592143127662"
+  url "https://registry.npmjs.org/lavish-axi/-/lavish-axi-0.1.98.tgz"
+  sha256 "429d796a03771a759d1df8967a58ff596ad5b5634a6382a530b4f917ea67d0fb"
   license "MIT"
 
   depends_on "node"
